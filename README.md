@@ -27,11 +27,23 @@
 
 ### 1.5 目录
 
-[toc]
+
+
+- [1. 摘要](#1-摘要)
+  - [1.1 计算核(Core)](#11-计算核core)
+  - [1.2 Benchmark(Agile)](#12-benchmarkagile)
+  - [1.3 ABC Benchmark](#13-abc-benchmark)
+  - [1.4 ABC Benchmark Suite](#14-abc-benchmark-suite)
+  - [1.5 目录](#15-目录)
+- [2. 简介](#2-简介)
+  - [2.1 介绍](#21-介绍)
+  - [2.2 结论](#22-结论)
+  - [2.3 Run](#23-run)
+- [3. 许可证](#3-许可证)
 
 ## 2. 简介
 
-<img src=".\doc\image\introduction.png" alt="bar_datasize_256" style="zoom: 50%;" />
+<img src=".\doc\image\introduction.png" alt="bar_datasize_256" style="zoom: 40%;" />
 
 ### 2.1 介绍
 
