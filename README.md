@@ -28,8 +28,6 @@
 
 ### 1.5 目录
 
-
-
 - [1. 摘要](#1-摘要)
   - [1.1 计算核(Core)](#11-计算核core)
   - [1.2 Benchmark(Agile)](#12-benchmarkagile)
@@ -89,7 +87,6 @@
 
 ### 2.2 结论
 
-
 示例图展示了数据量为 256 时，各芯片核心在 8 个测试用例下的吞吐性能，吞吐指标定义为 datasize / 100cycles
 
 <img src=".\doc\image\bar_datasize_256.png" alt="bar_datasize_256" style="zoom: 50%;" />
@@ -129,7 +126,13 @@ python run/plot.py
 1. 运行日志与汇编运行细节默认存放于 sw/test/ 目录
 2. 绘图结果输出至 run/results/ 目录
 
-## 3. 许可证
+## 3.详细内容
+
+**coming......**
+
+[详细文档](doc/doc.md)
+
+## 4. 许可证
 
 本项目基于 Apache License 2.0 开源，
 允许商用、修改与分发，同时明确专利授权与责任限制，
