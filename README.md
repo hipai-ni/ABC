@@ -128,9 +128,9 @@ python run/plot.py
 
 ## 3.详细内容
 
-**coming......**
-
 [详细文档](doc/doc.md)
+
+coming......
 
 ## 4. 许可证
 
