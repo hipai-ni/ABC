@@ -54,11 +54,11 @@
 
    case2：Simple loop + simple branch: 测试简单循环中加入跳转
 
-   case3：for loop + complex branch: 测试非对称、多分支跳转
+   case3：Multiple layer loop: 测试多重循环的循环开销
 
-   case4：while loop + complex branch: 测试非对称、多分支跳转
+   case4：for loop + complex branch: 测试非对称、多分支跳转
 
-   case5：Multiple layer loop: 测试多重循环的循环开销
+   case5：while loop + complex branch: 测试非对称、多分支跳转
 
    case6：Inductive loop: 测试循环之间有数据依赖，循环不能展开的情况
 
